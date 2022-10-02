@@ -1,2 +1,2 @@
 # Descenso-del-gradiente-desde-cero
-Descenso del gradiente desde cero, incluye, momento, RMSPROP, ADAM
+Regresión con descenso del gradiente desde cero, incluye, momento, RMSPROP, ADAM
